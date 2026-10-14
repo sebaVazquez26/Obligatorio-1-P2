@@ -1,0 +1,36 @@
+C:\Proyectos\Obligatorio 1 P2\Obligatorio1-P2\bin\Debug\net10.0\Obligatorio1-P2.exe
+C:\Proyectos\Obligatorio 1 P2\Obligatorio1-P2\bin\Debug\net10.0\Obligatorio1-P2.deps.json
+C:\Proyectos\Obligatorio 1 P2\Obligatorio1-P2\bin\Debug\net10.0\Obligatorio1-P2.runtimeconfig.json
+C:\Proyectos\Obligatorio 1 P2\Obligatorio1-P2\bin\Debug\net10.0\Obligatorio1-P2.dll
+C:\Proyectos\Obligatorio 1 P2\Obligatorio1-P2\bin\Debug\net10.0\Obligatorio1-P2.pdb
+C:\Proyectos\Obligatorio 1 P2\Obligatorio1-P2\bin\Debug\net10.0\Dominio.dll
+C:\Proyectos\Obligatorio 1 P2\Obligatorio1-P2\bin\Debug\net10.0\Dominio.pdb
+C:\Proyectos\Obligatorio 1 P2\Obligatorio1-P2\obj\Debug\net10.0\Obligatorio1-P2.csproj.AssemblyReference.cache
+C:\Proyectos\Obligatorio 1 P2\Obligatorio1-P2\obj\Debug\net10.0\Obligatorio1-P2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\Obligatorio 1 P2\Obligatorio1-P2\obj\Debug\net10.0\Obligatorio1-P2.AssemblyInfoInputs.cache
+C:\Proyectos\Obligatorio 1 P2\Obligatorio1-P2\obj\Debug\net10.0\Obligatorio1-P2.AssemblyInfo.cs
+C:\Proyectos\Obligatorio 1 P2\Obligatorio1-P2\obj\Debug\net10.0\Obligatorio1-P2.csproj.CoreCompileInputs.cache
+C:\Proyectos\Obligatorio 1 P2\Obligatorio1-P2\obj\Debug\net10.0\Obligato.40185899.Up2Date
+C:\Proyectos\Obligatorio 1 P2\Obligatorio1-P2\obj\Debug\net10.0\Obligatorio1-P2.dll
+C:\Proyectos\Obligatorio 1 P2\Obligatorio1-P2\obj\Debug\net10.0\refint\Obligatorio1-P2.dll
+C:\Proyectos\Obligatorio 1 P2\Obligatorio1-P2\obj\Debug\net10.0\Obligatorio1-P2.pdb
+C:\Proyectos\Obligatorio 1 P2\Obligatorio1-P2\obj\Debug\net10.0\Obligatorio1-P2.genruntimeconfig.cache
+C:\Proyectos\Obligatorio 1 P2\Obligatorio1-P2\obj\Debug\net10.0\ref\Obligatorio1-P2.dll
+C:\Obligatorio\Obligatorio1-P2\bin\Debug\net10.0\Obligatorio1-P2.exe
+C:\Obligatorio\Obligatorio1-P2\bin\Debug\net10.0\Obligatorio1-P2.deps.json
+C:\Obligatorio\Obligatorio1-P2\bin\Debug\net10.0\Obligatorio1-P2.runtimeconfig.json
+C:\Obligatorio\Obligatorio1-P2\bin\Debug\net10.0\Obligatorio1-P2.dll
+C:\Obligatorio\Obligatorio1-P2\bin\Debug\net10.0\Obligatorio1-P2.pdb
+C:\Obligatorio\Obligatorio1-P2\bin\Debug\net10.0\Dominio.dll
+C:\Obligatorio\Obligatorio1-P2\bin\Debug\net10.0\Dominio.pdb
+C:\Obligatorio\Obligatorio1-P2\obj\Debug\net10.0\Obligatorio1-P2.csproj.AssemblyReference.cache
+C:\Obligatorio\Obligatorio1-P2\obj\Debug\net10.0\Obligatorio1-P2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Obligatorio\Obligatorio1-P2\obj\Debug\net10.0\Obligatorio1-P2.AssemblyInfoInputs.cache
+C:\Obligatorio\Obligatorio1-P2\obj\Debug\net10.0\Obligatorio1-P2.AssemblyInfo.cs
+C:\Obligatorio\Obligatorio1-P2\obj\Debug\net10.0\Obligatorio1-P2.csproj.CoreCompileInputs.cache
+C:\Obligatorio\Obligatorio1-P2\obj\Debug\net10.0\Obligato.40185899.Up2Date
+C:\Obligatorio\Obligatorio1-P2\obj\Debug\net10.0\Obligatorio1-P2.dll
+C:\Obligatorio\Obligatorio1-P2\obj\Debug\net10.0\refint\Obligatorio1-P2.dll
+C:\Obligatorio\Obligatorio1-P2\obj\Debug\net10.0\Obligatorio1-P2.pdb
+C:\Obligatorio\Obligatorio1-P2\obj\Debug\net10.0\Obligatorio1-P2.genruntimeconfig.cache
+C:\Obligatorio\Obligatorio1-P2\obj\Debug\net10.0\ref\Obligatorio1-P2.dll

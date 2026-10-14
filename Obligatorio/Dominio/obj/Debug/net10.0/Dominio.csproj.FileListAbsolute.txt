@@ -1,0 +1,33 @@
+C:\Users\sebav\OneDrive\Escritorio\Obligatorio 1 P2\Dominio\obj\Debug\net10.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebav\OneDrive\Escritorio\Obligatorio 1 P2\Dominio\obj\Debug\net10.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\sebav\OneDrive\Escritorio\Obligatorio 1 P2\Dominio\obj\Debug\net10.0\Dominio.AssemblyInfo.cs
+C:\Users\sebav\OneDrive\Escritorio\Obligatorio 1 P2\Dominio\obj\Debug\net10.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\sebav\OneDrive\Escritorio\Obligatorio 1 P2\Dominio\bin\Debug\net10.0\Dominio.deps.json
+C:\Users\sebav\OneDrive\Escritorio\Obligatorio 1 P2\Dominio\bin\Debug\net10.0\Dominio.dll
+C:\Users\sebav\OneDrive\Escritorio\Obligatorio 1 P2\Dominio\bin\Debug\net10.0\Dominio.pdb
+C:\Users\sebav\OneDrive\Escritorio\Obligatorio 1 P2\Dominio\obj\Debug\net10.0\Dominio.dll
+C:\Users\sebav\OneDrive\Escritorio\Obligatorio 1 P2\Dominio\obj\Debug\net10.0\refint\Dominio.dll
+C:\Users\sebav\OneDrive\Escritorio\Obligatorio 1 P2\Dominio\obj\Debug\net10.0\Dominio.pdb
+C:\Users\sebav\OneDrive\Escritorio\Obligatorio 1 P2\Dominio\obj\Debug\net10.0\ref\Dominio.dll
+C:\Proyectos\Obligatorio 1 P2\Dominio\bin\Debug\net10.0\Dominio.deps.json
+C:\Proyectos\Obligatorio 1 P2\Dominio\bin\Debug\net10.0\Dominio.dll
+C:\Proyectos\Obligatorio 1 P2\Dominio\bin\Debug\net10.0\Dominio.pdb
+C:\Proyectos\Obligatorio 1 P2\Dominio\obj\Debug\net10.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\Obligatorio 1 P2\Dominio\obj\Debug\net10.0\Dominio.AssemblyInfoInputs.cache
+C:\Proyectos\Obligatorio 1 P2\Dominio\obj\Debug\net10.0\Dominio.AssemblyInfo.cs
+C:\Proyectos\Obligatorio 1 P2\Dominio\obj\Debug\net10.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Proyectos\Obligatorio 1 P2\Dominio\obj\Debug\net10.0\Dominio.dll
+C:\Proyectos\Obligatorio 1 P2\Dominio\obj\Debug\net10.0\refint\Dominio.dll
+C:\Proyectos\Obligatorio 1 P2\Dominio\obj\Debug\net10.0\Dominio.pdb
+C:\Proyectos\Obligatorio 1 P2\Dominio\obj\Debug\net10.0\ref\Dominio.dll
+C:\Obligatorio\Dominio\bin\Debug\net10.0\Dominio.deps.json
+C:\Obligatorio\Dominio\bin\Debug\net10.0\Dominio.dll
+C:\Obligatorio\Dominio\bin\Debug\net10.0\Dominio.pdb
+C:\Obligatorio\Dominio\obj\Debug\net10.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Obligatorio\Dominio\obj\Debug\net10.0\Dominio.AssemblyInfoInputs.cache
+C:\Obligatorio\Dominio\obj\Debug\net10.0\Dominio.AssemblyInfo.cs
+C:\Obligatorio\Dominio\obj\Debug\net10.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Obligatorio\Dominio\obj\Debug\net10.0\Dominio.dll
+C:\Obligatorio\Dominio\obj\Debug\net10.0\refint\Dominio.dll
+C:\Obligatorio\Dominio\obj\Debug\net10.0\Dominio.pdb
+C:\Obligatorio\Dominio\obj\Debug\net10.0\ref\Dominio.dll
